@@ -1,4 +1,4 @@
-require 'byebug'
+# require 'byebug'
 
 post '/vote_up/:id' do
 	id = params[:id]
